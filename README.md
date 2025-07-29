@@ -1,4 +1,4 @@
-# Enhancing-Simulated-Annealing-for-Complex-Optimization-Problems-
+# simulated-annealing-optimizer
 
 ## Project Overview
 The project is part of the Computer Programming course at Bocconi University. The project includes Python code and analysis of the results, which are documented in the report.
